@@ -55,7 +55,7 @@ This dashboard helps HR teams and management make better decisions by providing 
 
 Show what the dashboard looks like - ![Alt text](https://github.com/Riya2205/HR-Resources-Analytic/blob/main/HR%20Resource%20Analytics%20(1).png)
 
-![Alt text](https://github.com/Riya2205/HR-Resources-Analytic/blob/main/HR%20Resources%20Analytics%20(2).png)
+![Alt text](https://github.com/Riya2205/HR-Resources-Analytic/blob/main/HR%20Resource%20Analytics%20(2).png)
 
 
 
@@ -63,7 +63,7 @@ Example:
 
 ![Dashboard Preview](https://github.com/Riya2205/HR-Resources-Analytic/blob/main/HR%20Resource%20Analytics%20(1).png)
 
-![Dashboard Preview](https://github.com/Riya2205/HR-Resources-Analytic/blob/main/HR%20Resources%20Analytics%20(2).png)
+![Dashboard Preview](https://github.com/Riya2205/HR-Resources-Analytic/blob/main/HR%20Resource%20Analytics%20(2).png)
 
 
 
