@@ -1,4 +1,4 @@
-📊 HR Resource Analytics Dashboard
+📊 HR Resource Analysis Dashboard
 
 This project is an interactive **Power BI dashboard** created to analyze HR data and provide meaningful insights about an organization's workforce. It helps visualize important HR metrics such as employee count, salary distribution, department-wise performance, age groups, gender diversity, and employee attrition in one place.
 The dashboard is designed to make HR reporting simple, interactive, and easy to understand, allowing users to explore data through filters and visualizations.
